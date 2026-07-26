@@ -1,8 +1,26 @@
 aid: firstcry
 name: FirstCry
-description: 'FirstCry is a company surfaced as a portfolio company of softbank-vision-fund and added
-  to the API Evangelist network as a stub for enrichment. Sector: consumer. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'FirstCry (operated by Brainbees Solutions Ltd) is India''s largest omnichannel
+  retailer of baby, kids, and maternity products, founded in 2010 by Supam Maheshwari
+  and Amitava Saha and headquartered in Pune, India. It sells apparel, footwear, toys,
+  diapers, feeding and nursery gear, and personal-care products across its website,
+  mobile apps, and a large network of physical stores, alongside in-house brands such
+  as BabyHug. The company is backed by SoftBank Vision Fund and listed publicly on the
+  NSE and BSE in 2024. FirstCry publishes no public developer API or developer portal;
+  this profile captures the company''s public web, policy, and security-disclosure
+  surface for the API Evangelist network.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://cdn.fcglcdn.com/brainbees/images/n/fc_logo.png
 url: https://raw.githubusercontent.com/api-evangelist/firstcry/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,13 +30,43 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
 - Consumer
+- Retail
+- E-Commerce
+- Baby
+- Kids
+- Maternity
+- Omnichannel
+- India
 apis: []
+common:
+- type: Website
+  url: https://www.firstcry.com/
+- type: Support
+  url: https://www.firstcry.com/faq
+- type: Support
+  name: Contact Us
+  url: https://www.firstcry.com/contactus
+- type: PrivacyPolicy
+  url: https://www.firstcry.com/privacypolicy
+- type: TermsOfService
+  url: https://www.firstcry.com/termsofuse
+- type: Security
+  url: https://www.firstcry.com/policy/responsible-vulnerability-disclosure
+- type: DomainSecurity
+  url: security/firstcry-domain-security.yml
+- type: VulnerabilityDisclosure
+  url: security/firstcry-vulnerability-disclosure.yml
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
