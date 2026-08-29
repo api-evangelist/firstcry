@@ -9,6 +9,17 @@ description: 'FirstCry (operated by Brainbees Solutions Ltd) is India''s largest
   NSE and BSE in 2024. FirstCry publishes no public developer API or developer portal;
   this profile captures the company''s public web, policy, and security-disclosure
   surface for the API Evangelist network.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
