@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "firstcry",
+    "captured_at": "2026-10-11T185235",
+    "source_url": "https://www.firstcry.com/",
+    "source_type": "Website",
+    "file": "firstcry-2026-10-11T185235.png",
+    "bytes": 484888,
+    "capture": "playwright-local"
+  }
+]
