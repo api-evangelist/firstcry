@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/firstcry/integrations
+- https://n8n.io/integrations/firstcry/
+- https://composio.dev/toolkits/firstcry
+- https://monid.ai/tools/firstcry
+checked:
+- https://composio.dev/toolkits/firstcry
+- https://monid.ai/tools/firstcry
+- https://n8n.io/integrations/firstcry/
+- https://zapier.com/apps/firstcry/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
